@@ -30,6 +30,12 @@ Check out the Heroku live demo [here](https://whispering-shore-82646.herokuapp.c
 - Twitter: [@TFH_](https://twitter.com/TFH_)
 - Linkedin: [Alexis Sanchez](https://www.linkedin.com/in/alexis-gabriel-sánchez-cárcamo-264ba7194/)
 
+## Future features and improvements
+
+- Better security to prevent private data leaks.
+- Instant messaging.
+- User tagging.
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
